@@ -1,2 +1,10 @@
-# mvp_analise_moma_acervo
-EDA e pré-processamento de dados aplicados ao acervo do MoMA, com foco na identificação de padrões históricos, estruturais e de representatividade, além de exploração inicial de clusterização.
+Este projeto realiza uma análise exploratória do acervo do MoMA, investigando a composição da coleção, sua evolução ao longo do tempo e possíveis padrões estruturais.
+
+A análise inclui:
+- distribuição das obras por tipo, departamento e período
+- representatividade geográfica e de gênero
+- relações entre variáveis do acervo
+- preparação dos dados para machine learning
+- aplicação exploratória de clusterização (K-Means)
+
+O objetivo é demonstrar como técnicas de análise de dados podem apoiar a compreensão e a gestão de acervos culturais.
