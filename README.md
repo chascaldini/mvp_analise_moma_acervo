@@ -8,3 +8,12 @@ A análise inclui:
 - aplicação exploratória de clusterização (K-Means)
 
 O objetivo é demonstrar como técnicas de análise de dados podem apoiar a compreensão e a gestão de acervos culturais.
+
+
+## 🚀 Notebook no Google Colab
+
+Acesse e execute o projeto diretamente no Colab:
+
+[🔗 Abrir no Colab](LINK_AQUI)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([LINK_AQUI](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing))
