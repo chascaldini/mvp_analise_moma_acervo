@@ -9,6 +9,10 @@ A versão interativa pode ser acessada no Tableau Public:
 
 [![Open in Tableau](https://img.shields.io/badge/Open%20in-Tableau-1f77b4?style=for-the-badge)](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
 
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard-4E79A7?style=for-the-badge)](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
+
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-2C7FB8?style=for-the-badge)](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
+
 ## Versão estática
 
 As imagens dos painéis estão disponíveis na pasta `images/` e são utilizadas no notebook para ilustrar os principais resultados da análise.
