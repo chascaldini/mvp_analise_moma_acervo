@@ -14,6 +14,6 @@ O objetivo é demonstrar como técnicas de análise de dados podem apoiar a comp
 
 Acesse e execute o projeto diretamente no Colab:
 
-[🔗 Abrir no Colab](LINK_AQUI)
+[Abrir no Colab](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing))
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
