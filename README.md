@@ -18,3 +18,13 @@ O objetivo é demonstrar como técnicas de análise de dados podem apoiar a comp
 
 
 [![View Dashboard](https://img.shields.io/badge/View-Dashboard-4E79A7?style=for-the-badge)](SEU_LINK_DO_TABLEAU)
+
+## Acesso ao projeto
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
+
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard-4E79A7?style=for-the-badge)](https://img.shields.io/badge/Tableau-Public-2C7FB8?style=for-the-badge)](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
+
+[![MoMA Dataset](https://img.shields.io/badge/Dataset-MoMA%20Collection-6C757D?style=for-the-badge)](https://github.com/MuseumofModernArt/collection)
+
+[![Source Data](https://img.shields.io/badge/Source%20Data-MoMA%20Collection-495057?style=for-the-badge)](https://github.com/MuseumofModernArt/collection)
