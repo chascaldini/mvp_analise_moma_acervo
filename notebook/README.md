@@ -8,7 +8,9 @@ Esta pasta contém o notebook principal do projeto de análise exploratória de 
 
 ## Execução no Google Colab
 
-Para melhor experiência, recomenda-se executar o notebook no ambiente do Colab, que garante compatibilidade com as bibliotecas utilizadas e correta renderização dos gráficos interativos: [Abrir no Colab](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
+Para melhor experiência, recomenda-se executar o notebook no ambiente do Colab, que garante compatibilidade com as bibliotecas utilizadas e correta renderização dos gráficos interativos: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
+
+[Abrir no Colab](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
 
 ## Reprodutibilidade
 
