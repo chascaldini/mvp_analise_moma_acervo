@@ -15,3 +15,6 @@ O objetivo é demonstrar como técnicas de análise de dados podem apoiar a comp
 [Abrir no Colab](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
+
+
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard-4E79A7?style=for-the-badge)](SEU_LINK_DO_TABLEAU)
