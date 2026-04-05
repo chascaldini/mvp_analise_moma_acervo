@@ -7,6 +7,8 @@ Esta pasta reúne os materiais relacionados ao dashboard desenvolvido no Tableau
 A versão interativa pode ser acessada no Tableau Public:  
 [Visualizar dashboard no Tableau Public](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
 
+[![Open in Tableau](https://img.shields.io/badge/Open%20in-Tableau-1f77b4?style=for-the-badge)](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
+
 ## Versão estática
 
 As imagens dos painéis estão disponíveis na pasta `images/` e são utilizadas no notebook para ilustrar os principais resultados da análise.
