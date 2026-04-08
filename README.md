@@ -1,10 +1,6 @@
 # Coleção do MoMA: padrões históricos e estruturais do acervo  
 MVP de Análise de Dados e Boas Práticas | Pós-Graduação em Data Science & Analytics | PUC-Rio  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
-
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
-
 ### Acesse o projeto completo
 [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](SEU_LINK)
 
@@ -50,9 +46,6 @@ O notebook completo pode ser acessado pelo botão no topo deste repositório.
 3. Explorar as análises e visualizações
 
 ## Dashboard
-
-[![View Dashboard](https://img.shields.io/badge/View-Dashboard-4E79A7?style=for-the-badge)](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
-
 Visualização interativa complementar:
 [Acessar dashboard no Tableau](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
 
