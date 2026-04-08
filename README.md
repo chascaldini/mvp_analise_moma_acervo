@@ -3,6 +3,11 @@ MVP de Análise de Dados e Boas Práticas | Pós-Graduação em Data Science & A
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
 
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
+
+### Acesse o projeto completo
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](SEU_LINK)
+
 ## Visão geral
 O notebook inclui as principais etapas de um projeto de análise de dados, desde a definição do problema até a interpretação dos resultados.
 
@@ -29,11 +34,6 @@ As análises foram realizadas em ambiente Python (Google Colab), utilizando bibl
 - Desigualdade significativa de gênero na composição do acervo  
 - Concentração temporal no século XX, alinhada ao perfil do museu  
 
-## Dashboard
-Visualização interativa dos principais padrões identificados na análise: 
-
-[![View Dashboard](https://img.shields.io/badge/View-Dashboard-4E79A7?style=for-the-badge)](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
-
 ## Dataset
 Conjunto de dados públicos disponibilizados pelo Museum of Modern Art (MoMA), contendo metadados sobre obras da coleção. 
 
@@ -48,6 +48,13 @@ O notebook completo pode ser acessado pelo botão no topo deste repositório.
 1. Acessar o notebook pelo botão **Open in Colab**
 2. Executar todas as células do início ao fim
 3. Explorar as análises e visualizações
+
+## Dashboard
+
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard-4E79A7?style=for-the-badge)](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
+
+Visualização interativa complementar:
+[Acessar dashboard no Tableau](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
 
 ## Autora
 Charlyne Scaldini  
