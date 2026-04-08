@@ -1,13 +1,6 @@
 # Coleção do MoMA: padrões históricos e estruturais do acervo  
 MVP de Análise de Dados e Boas Práticas | Pós-Graduação em Data Science & Analytics | PUC-Rio  
 
-## Acesse e execute o projeto diretamente no Colab:
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
-
-# Coleção do MoMA: padrões históricos e estruturais do acervo  
-MVP de Análise de Dados e Boas Práticas | Pós-Graduação em Data Science & Analytics | PUC-Rio  
-
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
 
 ## Visão geral
