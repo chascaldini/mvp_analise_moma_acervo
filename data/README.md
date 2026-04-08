@@ -7,8 +7,6 @@ Este projeto utiliza dados públicos do acervo do Museum of Modern Art (MoMA).
 MoMA Collection Dataset  
 https://github.com/MuseumofModernArt/collection
 
-[![MoMA Dataset](https://img.shields.io/badge/Dataset-MoMA%20Collection-6C757D?style=for-the-badge)](https://github.com/MuseumofModernArt/collection)
-
 ## Arquivo utilizado
 
 - Artworks.csv
