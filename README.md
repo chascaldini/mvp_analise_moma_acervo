@@ -47,7 +47,7 @@ O notebook completo pode ser acessado pelo botão no topo deste repositório.
 3. Explorar as análises e visualizações
 
 ## Dashboard
-Visualização interativa complementar:
+Visualização interativa complementar:  
 [Acessar dashboard no Tableau](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
 
 ## Autora
