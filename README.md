@@ -5,19 +5,13 @@ MVP de Análise de Dados e Boas Práticas | Pós-Graduação em Data Science & A
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
 
-## Visão geral do projeto
-Este projeto realiza uma análise exploratória de dados (EDA) sobre o dataset público da coleção do Museum of Modern Art (MoMA), com foco na identificação de padrões estruturais, curatoriais e históricos do acervo.
+# Coleção do MoMA: padrões históricos e estruturais do acervo  
+MVP de Análise de Dados e Boas Práticas | Pós-Graduação em Data Science & Analytics | PUC-Rio  
 
-O notebook inclui:
-1. Introdução e definição do problema
-2. Dataset e carga
-3. Preparação do ambiente
-4. Inspeção inicial dos dados
-5. Análise exploratória de dados (EDA)
-6. Pré-processamento de dados
-7. Síntese dos achados
-8. Próximos passos para machine learning
-9. Conclusão
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
+
+## Visão geral
+O notebook inclui as principais etapas de um projeto de análise de dados, desde a definição do problema até a interpretação dos resultados.
 
 ## Objetivo
 Explorar a composição do acervo do MoMA a partir de diferentes perspectivas analíticas, investigando padrões relacionados a:
@@ -28,7 +22,6 @@ Explorar a composição do acervo do MoMA a partir de diferentes perspectivas an
 - evolução temporal da coleção  
 
 ## Metodologia e tecnologias
-
 O projeto segue as principais etapas de um fluxo de análise de dados:
 
 `Definição do problema → Carga → Inspeção → EDA → Pré-processamento → Interpretação`
@@ -55,8 +48,7 @@ Conjunto de dados públicos disponibilizados pelo Museum of Modern Art (MoMA), c
 - Arquivo utilizado: `Artworks.csv`  
 
 ## Notebook do projeto
-
-O notebook completo, com todas as análises e visualizações, pode ser acessado pelo botão **Open in Colab** no topo deste repositório.
+O notebook completo pode ser acessado pelo botão no topo deste repositório.
 
 ## Como executar
 
