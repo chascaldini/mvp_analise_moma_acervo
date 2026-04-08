@@ -79,13 +79,15 @@ Tecnologias utilizadas: Python (Pandas, NumPy), Plotly, Seaborn, Missingno, Goog
 - Concentração temporal no século XX, alinhada ao perfil do museu  
 
 ## Dashboard
-Visualização interativa dos principais padrões identificados na análise:
+Visualização interativa dos principais padrões identificados na análise: 
+
 [![View Dashboard](https://img.shields.io/badge/View-Dashboard-4E79A7?style=for-the-badge)](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
 
 [Acessar dashboard no Tableau](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
 
 ## Dataset
-Conjunto de dados públicos disponibilizados pelo Museum of Modern Art (MoMA), contendo metadados sobre obras da coleção.
+Conjunto de dados públicos disponibilizados pelo Museum of Modern Art (MoMA), contendo metadados sobre obras da coleção. 
+
 [![MoMA Dataset](https://img.shields.io/badge/Dataset-MoMA%20Collection-6C757D?style=for-the-badge)](https://github.com/MuseumofModernArt/collection)
 
 - Fonte: https://github.com/MuseumofModernArt/collection  
@@ -93,19 +95,7 @@ Conjunto de dados públicos disponibilizados pelo Museum of Modern Art (MoMA), c
 
 ## Notebook do projeto
 
-- **Notebook executável (Google Colab)**  
-Arquivo principal contendo toda a análise, visualizações e documentação do projeto.  
-(Acesse pelo botão no topo do repositório)
-
-- **Versão no GitHub (.ipynb)**  
-Disponível para versionamento e consulta.
-
-## Estrutura do repositório
-├── notebook/
-│ └── mvp_analise_moma_acervo.ipynb
-├── dashboard/
-│ └── images/
-├── README.md
+O notebook completo, com todas as análises e visualizações, pode ser acessado pelo botão **Open in Colab** no topo deste repositório.
 
 ## Como executar
 
