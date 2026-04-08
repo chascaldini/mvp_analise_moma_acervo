@@ -32,13 +32,13 @@ O objetivo é demonstrar como técnicas de análise de dados podem apoiar a comp
 
 [![Source Data](https://img.shields.io/badge/Source%20Data-MoMA%20Collection-495057?style=for-the-badge)](https://github.com/MuseumofModernArt/collection)
 
----  >>>>>>
+---  
+
 # Coleção do MoMA: padrões históricos e estruturais do acervo  
 MVP de Análise de Dados e Boas Práticas | Pós-Graduação em Data Science & Analytics | PUC-Rio  
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
 
----
 
 ## Visão geral do projeto
 Este projeto realiza uma análise exploratória de dados (EDA) sobre o dataset público da coleção do Museum of Modern Art (MoMA), com foco na identificação de padrões estruturais, curatoriais e históricos do acervo.
@@ -54,8 +54,6 @@ A análise inclui:
 8. Próximos passos para machine learning
 9. Conclusão
 
----
-
 ## Objetivo
 Explorar a composição do acervo do MoMA a partir de diferentes perspectivas analíticas, investigando padrões relacionados a:
 
@@ -63,8 +61,6 @@ Explorar a composição do acervo do MoMA a partir de diferentes perspectivas an
 - distribuição por departamentos  
 - nacionalidade e gênero dos artistas  
 - evolução temporal da coleção  
-
----
 
 ## Metodologia
 O projeto segue as principais etapas de um fluxo de análise de dados:
@@ -74,8 +70,6 @@ O projeto segue as principais etapas de um fluxo de análise de dados:
 As análises foram realizadas em ambiente Python (Google Colab), utilizando bibliotecas como Pandas, Plotly e Seaborn.
 Tecnologias utilizadas: Python (Pandas, NumPy), Plotly, Seaborn, Missingno, Google Colab, Tableau Public, GitHub.
 
----
-
 ## Principais insights
 
 - Forte predominância de mídias reprodutíveis, como fotografias, gravuras e materiais editoriais  
@@ -84,15 +78,11 @@ Tecnologias utilizadas: Python (Pandas, NumPy), Plotly, Seaborn, Missingno, Goog
 - Desigualdade significativa de gênero na composição do acervo  
 - Concentração temporal no século XX, alinhada ao perfil do museu  
 
----
-
 ## Dashboard
 Visualização interativa dos principais padrões identificados na análise:
 [![View Dashboard](https://img.shields.io/badge/View-Dashboard-4E79A7?style=for-the-badge)](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
 
 [Acessar dashboard no Tableau](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
-
----
 
 ## Dataset
 Conjunto de dados públicos disponibilizados pelo Museum of Modern Art (MoMA), contendo metadados sobre obras da coleção.
@@ -100,8 +90,6 @@ Conjunto de dados públicos disponibilizados pelo Museum of Modern Art (MoMA), c
 
 - Fonte: https://github.com/MuseumofModernArt/collection  
 - Arquivo utilizado: `Artworks.csv`  
-
----
 
 ## Notebook do projeto
 
@@ -112,8 +100,6 @@ Arquivo principal contendo toda a análise, visualizações e documentação do 
 - **Versão no GitHub (.ipynb)**  
 Disponível para versionamento e consulta.
 
----
-
 ## Estrutura do repositório
 ├── notebook/
 │ └── mvp_analise_moma_acervo.ipynb
@@ -121,15 +107,11 @@ Disponível para versionamento e consulta.
 │ └── images/
 ├── README.md
 
----
-
 ## Como executar
 
 1. Acessar o notebook pelo botão **Open in Colab**
 2. Executar todas as células do início ao fim
 3. Explorar as análises e visualizações
-
----
 
 ## Autora
 Charlyne Scaldini  
