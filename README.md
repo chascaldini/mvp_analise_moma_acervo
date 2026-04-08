@@ -2,7 +2,7 @@
 MVP de Análise de Dados e Boas Práticas | Pós-Graduação em Data Science & Analytics | PUC-Rio  
 
 ### Acesse o projeto completo
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](SEU_LINK)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
 
 ## Visão geral
 O notebook inclui as principais etapas de um projeto de análise de dados, desde a definição do problema até a interpretação dos resultados.
