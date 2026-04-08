@@ -5,7 +5,6 @@ MVP de Análise de Dados e Boas Práticas | Pós-Graduação em Data Science & A
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8_vxed7rTY1VR-abkbAv20n0DsU9Xjs?usp=sharing)
 
---- 
 ## Visão geral do projeto
 Este projeto realiza uma análise exploratória de dados (EDA) sobre o dataset público da coleção do Museum of Modern Art (MoMA), com foco na identificação de padrões estruturais, curatoriais e históricos do acervo.
 
@@ -48,8 +47,6 @@ As análises foram realizadas em ambiente Python (Google Colab), utilizando bibl
 Visualização interativa dos principais padrões identificados na análise: 
 
 [![View Dashboard](https://img.shields.io/badge/View-Dashboard-4E79A7?style=for-the-badge)](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
-
-[![Abrir dashboard no Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
 
 ## Dataset
 Conjunto de dados públicos disponibilizados pelo Museum of Modern Art (MoMA), contendo metadados sobre obras da coleção. 
